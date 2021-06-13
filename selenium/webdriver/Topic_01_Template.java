@@ -70,7 +70,7 @@ public class Topic_01_Template {
 	
 	@AfterClass
 	public void afterClass() {
-		//driver.quit();
+		driver.quit();
 	}
 
 }
